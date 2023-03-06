@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" alt = "banner" width = "1000" height ="300" src = "https://drive.google.com/file/d/1pl7VVxkYz1mEJdV9nd_IbCzWPtupor2k/view?usp=share_link">
+![logo](https://github.com/SanidhyaMittal/SanidhyaMittal/blob/main/SANIDHYA%20MITTAL.gif)
 <h1 align="center">Hey👋there fellow user, I'm Sanidhya Mittal</h1>
 <h3 align="center">A sophomore in Mechanical Department at IIT Delhi</h3>
 <img align= "right" alt="robotic_arm" width = "300" src="https://images.pexels.com/photos/2399840/pexels-photo-2399840.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
