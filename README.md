@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A sophomore in Mechanical Department at IIT Delhi</h3>
 <img align= "right" alt="robotic_arm" width = "300" src="https://images.pexels.com/photos/2399840/pexels-photo-2399840.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 
-- 🔭 I’m currently working **on an autonomous UV disinfection robot**.
+- 🔭 I’m currently working **on an autonomous four-wheeled omni robot**.
 - 🌱 I’m currently learning **internet of things, human-robot interaction, etc.**
 - 💬 Ask me about **robotics**
 - 📫 How to reach me **msanidhya0102@gmail.com**
