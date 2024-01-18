@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ![logo](https://github.com/SanidhyaMittal/SanidhyaMittal/blob/main/SANIDHYA%20MITTAL.gif)
 <h1 align="center">Hey👋there fellow user, I'm Sanidhya Mittal</h1>
-<h3 align="center">A sophomore in Mechanical Department at IIT Delhi</h3>
+<h3 align="center">A junior in Mechanical Department at IIT Delhi</h3>
 <img align= "right" alt="robotic_arm" width = "300" src="https://images.pexels.com/photos/2399840/pexels-photo-2399840.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 
-- 🔭 I’m currently working **on an autonomous four-wheeled holonomic robot**.
-- 🌱 I’m currently learning **internet of things, human-robot interaction, deep learning etc.**
+- 🔭 I’m currently working **on number plate detection module**.
+- 🌱 I’m currently learning **internet of things, deep learning etc.**
 - 💬 Ask me about **robotics**
 - 📫 How to reach me **msanidhya0102@gmail.com**
 - ⚡ Fun fact: Call me a clinophile!
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanidhyamittal&show_icons=true&locale=en&layout=compact" alt="sanidhyamittal" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanidhyamittal&show_icons=true&locale=en" alt="sanidhyamittal" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanidhyamittal&show_icons=true&locale=en" alt="sanidhyamittal" /></p> -->
