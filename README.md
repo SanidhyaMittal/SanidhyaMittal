@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A junior in Mechanical Department at IIT Delhi</h3>
 <img align= "right" alt="robotic_arm" width = "300" src="https://images.pexels.com/photos/2399840/pexels-photo-2399840.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 
-- 🔭 I’m currently working **on number plate detection module**.
+- 🔭 I’m currently working **on self driving car project**.
 - 🌱 I’m currently learning **internet of things, deep learning etc.**
 - 💬 Ask me about **robotics**
 - 📫 How to reach me **msanidhya0102@gmail.com**
